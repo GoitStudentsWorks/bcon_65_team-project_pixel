@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project_pixel/",
+    "build": "vite build --base=/bcon_65_team-project_pixel/",
     "preview": "vite preview"
   },
   "devDependencies": {
